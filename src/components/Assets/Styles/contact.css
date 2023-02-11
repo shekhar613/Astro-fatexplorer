@@ -1,0 +1,21 @@
+.contact_section{
+    /* background: #000; */
+    width: 65%;
+    padding: 14px;
+}
+.contact_section form{
+    width: 100%;
+    padding: 25px;
+    margin-top:25px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+@media only screen and (max-width: 988px) {
+    .contact_section{
+        /* background: #000; */
+        width: 95%;
+        padding: 14px;
+    }
+    .contact_section form{}
+}
+    
